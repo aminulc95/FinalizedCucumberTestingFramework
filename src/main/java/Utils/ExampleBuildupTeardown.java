@@ -1,7 +1,5 @@
-package Runners;
+package Utils;
 
-import Utils.Base;
-import Utils.Library;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.After;
 
